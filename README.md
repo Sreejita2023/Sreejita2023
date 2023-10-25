@@ -1,3 +1,4 @@
+<img scr="https://unsplash.com/photos/a-person-sitting-on-top-of-a-sand-dune--AFeVPw7lDU"/>
 <h1 align="center">Hi 👋, I'm Sreejita Sen</h1>
 <h3 align="center">Coding the future one keystroke at a time, fueled by coffee, curiosity, and creativity.</h3>
 
