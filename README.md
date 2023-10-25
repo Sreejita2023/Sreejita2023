@@ -7,7 +7,7 @@
 
 - 🔭 Striving to become a leading **Full Stack Developer**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
