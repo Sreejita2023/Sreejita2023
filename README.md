@@ -1,5 +1,5 @@
  <div align="right">
-<img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="500" height="100" />
+<img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" width="500" height="100" />
   </div>
 <h1 align="center">Hi 👋, I'm Sreejita Sen</h1>
 <h3 align="center">Coding the future one keystroke at a time, fueled by coffee, curiosity, and creativity.</h3>
