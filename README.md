@@ -1,9 +1,9 @@
- <div align="left">
-   <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="700" height="100" />
-  </div>
+ 
 <h1 align="center">Hi 👋, I'm Sreejita Sen</h1>
 <h3 align="center">Coding the future one keystroke at a time, fueled by coffee, curiosity, and creativity.</h3>
-
+<div align="left">
+   <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="700" height="100" />
+  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejita2023&label=Profile%20views&color=0e75b6&style=flat" alt="sreejita2023" /> </p>
 
 - 🔭 Striving to become a leading **Full Stack Developer**
