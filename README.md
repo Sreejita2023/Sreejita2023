@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sreejita Sen</h1>
 <h3 align="center">Coding the future one keystroke at a time, fueled by coffee, curiosity, and creativity.</h3>
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejita2023&label=Profile%20views&color=0e75b6&style=flat" alt="sreejita2023" /> </p>
 
 - 🔭 Striving to become a leading **Full Stack Developer**
 
@@ -43,7 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejita2023&" alt="sreejita2023" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejita2023&label=Profile%20views&color=0e75b6&style=flat" alt="sreejita2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejita2023" alt="sreejita2023" /></a> </p>
 
